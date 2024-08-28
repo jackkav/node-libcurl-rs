@@ -1038,6 +1038,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"node-libcurl-rs@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "node-libcurl-rs@workspace:."
+  dependencies:
+    "@napi-rs/cli": "npm:^2.18.4"
+    ava: "npm:^6.0.1"
+  languageName: unknown
+  linkType: soft
+
 "nofilter@npm:^3.1.0":
   version: 3.1.0
   resolution: "nofilter@npm:3.1.0"
@@ -1221,15 +1230,6 @@ __metadata:
   checksum: 10c0/200b5ab25b5b8b7113f9901bfe3afc347e19bb7475b267d55ad0eb86a62a46d77510cb0f232507c9e5d497ebda569a08a9867d0d14f57a82ad5564d991588b39
   languageName: node
   linkType: hard
-
-"rust-libcurl@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "rust-libcurl@workspace:."
-  dependencies:
-    "@napi-rs/cli": "npm:^2.18.4"
-    ava: "npm:^6.0.1"
-  languageName: unknown
-  linkType: soft
 
 "safe-buffer@npm:~5.2.0":
   version: 5.2.1
