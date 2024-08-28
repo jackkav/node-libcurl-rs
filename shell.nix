@@ -6,6 +6,7 @@ mkShell {
     yarn
     cargo
     rustc
+    rustfmt
     curl
     libiconv
   ];

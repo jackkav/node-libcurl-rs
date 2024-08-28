@@ -10,3 +10,11 @@ test('httpGet', async (t) => {
   const res = await httpGet('https://mock.insomnia.rest')
   t.is(res, '"Hello World!"')
 })
+
+
+// direction
+// - add methods
+// - Headers
+// - cookies
+// - streams
+// 
