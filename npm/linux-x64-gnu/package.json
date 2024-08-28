@@ -1,5 +1,5 @@
 {
-  "name": "rust-libcurl-linux-x64-gnu",
+  "name": "node-libcurl-rs-linux-x64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "rust-libcurl.linux-x64-gnu.node",
+  "main": "node-libcurl-rs.linux-x64-gnu.node",
   "files": [
-    "rust-libcurl.linux-x64-gnu.node"
+    "node-libcurl-rs.linux-x64-gnu.node"
   ],
   "license": "MIT",
   "engines": {

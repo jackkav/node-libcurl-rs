@@ -1,5 +1,5 @@
 {
-  "name": "rust-libcurl-darwin-arm64",
+  "name": "node-libcurl-rs-darwin-arm64",
   "version": "0.0.0",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "rust-libcurl.darwin-arm64.node",
+  "main": "node-libcurl-rs.darwin-arm64.node",
   "files": [
-    "rust-libcurl.darwin-arm64.node"
+    "node-libcurl-rs.darwin-arm64.node"
   ],
   "license": "MIT",
   "engines": {

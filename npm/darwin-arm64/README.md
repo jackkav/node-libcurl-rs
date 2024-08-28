@@ -1,3 +1,3 @@
-# `rust-libcurl-darwin-arm64`
+# `node-libcurl-rs-darwin-arm64`
 
-This is the **aarch64-apple-darwin** binary for `rust-libcurl`
+This is the **aarch64-apple-darwin** binary for `node-libcurl-rs`

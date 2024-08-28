@@ -1,5 +1,5 @@
 {
-  "name": "rust-libcurl-win32-x64-msvc",
+  "name": "node-libcurl-rs-win32-x64-msvc",
   "version": "0.0.0",
   "os": [
     "win32"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "rust-libcurl.win32-x64-msvc.node",
+  "main": "node-libcurl-rs.win32-x64-msvc.node",
   "files": [
-    "rust-libcurl.win32-x64-msvc.node"
+    "node-libcurl-rs.win32-x64-msvc.node"
   ],
   "license": "MIT",
   "engines": {
