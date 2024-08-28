@@ -10,4 +10,5 @@ mkShell {
     curl
     libiconv
   ];
+  RUST_SRC_PATH = "${rustPlatform.rustLibSrc}";
 }
